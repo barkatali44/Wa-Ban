@@ -12,7 +12,7 @@ pkg install toilet -y
 
 pkg install git -y
 
-git clone https://github.com/SAVIYA-OFFICIAL/Wa-Ban
+git clone https://github.com/SAVINDU-DESHAN/Wa-Ban
 
 cd wa-ban
 

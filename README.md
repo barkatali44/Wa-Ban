@@ -12,7 +12,7 @@ pkg install toilet -y
 
 pkg install git -y
 
-git clone https://github.com/ooo9204/wa-ban
+git clone https://github.com/SAVIYA-OFFICIAL/Wa-Ban
 
 cd wa-ban
 
@@ -22,3 +22,4 @@ bash waban.sh
 
 ## THIS TOOL IS FOR EDUCATIONAL PERPOSE ............ NOT TO HARM ANYONE
 
+Divolop - Saviya

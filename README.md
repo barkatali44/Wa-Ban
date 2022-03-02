@@ -22,4 +22,5 @@ bash waban.sh
 
 ## THIS TOOL IS FOR EDUCATIONAL PERPOSE ............ NOT TO HARM ANYONE
 
-Divolop - Saviya
+Developer - Saviya
+          - https://github.com/SAVINDU-DESHAN
